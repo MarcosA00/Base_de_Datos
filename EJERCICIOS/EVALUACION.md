@@ -55,4 +55,5 @@ constan de un título y una extensión.
 fecha, número de páginas y el número de ejemplares vendidos.
 
 
-![image](https://user-images.githubusercontent.com/85717673/169090052-f2e89366-2061-4b7c-b75b-144bea2fdbee.png)
+![image](https://user-images.githubusercontent.com/85717673/169569795-f951ced5-596c-4128-9d1e-64e3a2be4af8.png)
+
