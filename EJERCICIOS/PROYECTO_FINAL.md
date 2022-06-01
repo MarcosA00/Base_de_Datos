@@ -29,3 +29,7 @@ precio y categoría.
 un código de categoría único.
 
 ● Una pieza sólo puede pertenecer a una categoría.
+
+
+![image](https://user-images.githubusercontent.com/85717673/171452952-82f77a2b-fd80-41b3-bc93-5d2cd98a7d0f.png)
+
