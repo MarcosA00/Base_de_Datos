@@ -9,10 +9,16 @@ Ejercicio:
 
 1. ¿Qué es un DataWarehouse?(valor 2)
 
+        R= Es un almacén electrónico donde generalmente una empresa u organización mantiene una gran cantidad de información. 
+        Los datos de un data warehouse deben almacenarse de forma segura, fiable, fácil de recuperar y fácil de administrar.
+
 2. Realiza un diseño del modelo en estrella (valor 2)
+
+![image](https://user-images.githubusercontent.com/85717673/171928416-894d69f0-45d7-4dff-b79a-b11764a0f2df.png)
 
 3. Realiza un diseño del modelo copo de nieve (valor 2)
 
+![image](https://user-images.githubusercontent.com/85717673/171931774-2a07d46b-29e5-4912-8f06-f622fccbd69d.png)
 
 ## Práctica 7
 ### Funciones en SQL
